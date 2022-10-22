@@ -1,2 +1,2 @@
 # milans-project
-Source code of milans bachelor thesis
+Source code of my bachelor thesis
